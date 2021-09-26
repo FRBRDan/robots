@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/robots/static/css/main.1d9e5cca.chunk.css",
+    "main.js": "/robots/static/js/main.f2d9ff2b.chunk.js",
+    "main.js.map": "/robots/static/js/main.f2d9ff2b.chunk.js.map",
+    "runtime-main.js": "/robots/static/js/runtime-main.ecc0fce4.js",
+    "runtime-main.js.map": "/robots/static/js/runtime-main.ecc0fce4.js.map",
+    "static/css/2.6d7c7915.chunk.css": "/robots/static/css/2.6d7c7915.chunk.css",
+    "static/js/2.85bc9233.chunk.js": "/robots/static/js/2.85bc9233.chunk.js",
+    "static/js/2.85bc9233.chunk.js.map": "/robots/static/js/2.85bc9233.chunk.js.map",
+    "static/js/3.9052be84.chunk.js": "/robots/static/js/3.9052be84.chunk.js",
+    "static/js/3.9052be84.chunk.js.map": "/robots/static/js/3.9052be84.chunk.js.map",
+    "index.html": "/robots/index.html",
+    "static/css/2.6d7c7915.chunk.css.map": "/robots/static/css/2.6d7c7915.chunk.css.map",
+    "static/css/main.1d9e5cca.chunk.css.map": "/robots/static/css/main.1d9e5cca.chunk.css.map",
+    "static/js/2.85bc9233.chunk.js.LICENSE.txt": "/robots/static/js/2.85bc9233.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/robots/static/media/SuperMario256.4f725b59.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ecc0fce4.js",
+    "static/css/2.6d7c7915.chunk.css",
+    "static/js/2.85bc9233.chunk.js",
+    "static/css/main.1d9e5cca.chunk.css",
+    "static/js/main.f2d9ff2b.chunk.js"
+  ]
+}
